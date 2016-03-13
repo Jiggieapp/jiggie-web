@@ -1,0 +1,1 @@
+<?php $shop_sidebar=st_get_option('shop_sidebar_id','shop');?><div class="col-md-3 shop-sidebar">    <?php    dynamic_sidebar($shop_sidebar);    ?></div>

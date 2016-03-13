@@ -1,0 +1,1 @@
+<?phpglobal $st_show_banner;$header_position=st_get_option('header_position',1);$class="";if($header_position==2 and $st_show_banner ){    $class='header-top';}echo get_template_part('home-slider');

@@ -1,0 +1,1 @@
+<?php /**Template Name: Home Template*/?><?php global $wp_query,$st_show_banner;$st_show_banner=true;?><?php get_header(); ?>    <?php while(have_posts()) : the_post(); ?>            <?php    the_content(); ?>    <?php endwhile; ?><?php get_footer(); ?>

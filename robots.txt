@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /wp-content
+Disallow: /wp-admin
+
+Sitemap: http://www.partyhostapp.com/sitemap.xml

@@ -1,0 +1,12 @@
+Version 1.1.1
+	[Update] wunderkind/woocommerce/checkout/form-shipping.php
+	[Update] wunderkind/woocommerce/checkout/thankyou.php
+	[Delete] wunderkind/woocommerce/emails (Wunderkind dose not need to modify this folder)
+	[Delete] wunderkind/woocommerce/global/breadcrumb.php (Wunderkind dose not need to modify this file)
+	[Update] wunderkind/woocommerce/loop/orderby.php
+	[Update] wunderkind/woocommerce/loop/pagination.php
+	[Delete] wunderkind/woocommerce/myaccount/form-edit-account.php (Wunderkind dose not need to modify this file)
+	[Update] wunderkind/woocommerce/myaccount/my-address.php
+	[Delete] wunderkind/woocommerce/myaccount/my-orders.php (Wunderkind dose not need to modify this file)
+	[Delete] wunderkind/woocommerce/myaccount/view-order.php (Wunderkind dose not need to modify this file)
+	[Delete] wunderkind/woocommerce/order/tracking.php (Wunderkind dose not need to modify this file)

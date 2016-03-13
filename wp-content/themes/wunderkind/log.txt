@@ -1,0 +1,12 @@
+10/9/14
+	1.[New] Able to change overlay image
+		a. inc/st.customvc.php
+		b. 
+
+	2. [New] Flexible show Container
+		a. inc/st.customvc.php
+
+
+11/9/14
+	1.[New] Able to change font of Heading Tag
+	

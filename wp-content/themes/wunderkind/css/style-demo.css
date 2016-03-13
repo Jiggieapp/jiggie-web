@@ -1,0 +1,181 @@
+.mar1 {
+  margin: .5em;
+}
+.mar2 {
+  margin: .3em;
+}
+h4, .h4, h5, .h5, h6, .h6 {
+margin-top: 0px;
+margin-bottom: 0px;
+}
+h4 a {
+    color:#fff;
+}
+
+h4 a:hover {
+    color:#fff;
+}
+p a {
+    color:#fff;
+}
+
+p a:hover {
+    color:#fff;
+}
+
+@media (min-width: 180px) {
+    
+h4 small {
+    font-size:12px;
+    color:#fff;
+    line-height:1;
+}
+
+h4 {
+    font-size:18px;
+}
+.demo-title {
+    margin-bottom:0px;
+}    
+
+    
+}
+
+
+
+@media (min-width: 480px) {
+    
+h4 small {
+    font-size:18px;
+    color:#fff;
+    line-height:1;
+}
+h4 {
+    font-size:24px;
+}
+.demo-title {
+    margin-bottom:5px;
+
+}
+ 
+}
+
+
+@media (min-width: 768px) {
+    
+h4 small {
+    font-size:18px;
+    color:#fff;
+    line-height:1;
+}
+h4 {
+    font-size:24px;
+}
+
+.demo-title {
+    margin-bottom:60px;
+}
+
+}
+
+@media (min-width: 992px) {
+    
+h4 small {
+    font-size:15px;
+    color:#fff;
+    line-height:1;
+}
+h4 {
+    font-size:20px;
+}
+
+.demo-title {
+    margin-bottom:60px;
+}
+    
+}
+
+@media (min-width: 1300px) {
+    
+h4 small {
+    font-size:18px;
+    color:#fff;
+    line-height:1;
+}
+h4 {
+    font-size:24px;
+}
+
+.demo-title {
+    margin-bottom:60px;
+}
+}
+
+
+
+
+
+#home-demo {
+	background-color: #121212;
+	background-position: center 0%;
+	background-size: cover;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-image: url(../img/bg_1.jpg);
+	display: table;
+	width: 100%;
+	height: 100%;
+	
+	overflow-x: hidden;
+	overflow-y: hidden;
+	vertical-align: middle;
+	z-index: 1;
+}
+.demo-overlay {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url(../img/pattern.png);
+    background-attachment: fixed;
+	background-repeat: repeat-x repeat-y;
+	background-color: rgba(44,62,80,0.6);
+	z-index: 2;
+    overflow: auto;
+	
+}
+.home-container {
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+	z-index: 3;
+}
+
+
+.container-demo {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container-demo {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container-demo {
+    width: 970px;
+  }
+}
+@media (min-width: 1300px) {
+  .container-demo {
+    width: 1300px;
+  }
+}
+@media (min-width: 1700px) {
+  .container-demo {
+    width: 1700px;
+  }
+}

@@ -1,0 +1,1 @@
+<?phpget_header();echo get_template_part('banner-shop');?><div class="section_row  section-whitebg">    <div class="container">        <div class="row">
